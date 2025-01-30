@@ -1,0 +1,33 @@
+# Xcode files
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
+xcuserdata/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+
+# macOS files
+.DS_Store
+
+# Dependency directories
+Carthage/
+Pods/
+
+# App-specific files
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Local development files
+.env
+.env.local
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
