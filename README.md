@@ -107,10 +107,6 @@ I welcome contributions to `DeepSeekSDK`! If you'd like to contribute, please fo
 
 ---
 
-## License
-`DeepSeekSDK` is released under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Support
 If you encounter any issues or have questions, please:
